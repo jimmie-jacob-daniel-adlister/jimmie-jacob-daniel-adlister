@@ -1,5 +1,5 @@
 package com.codeup.adlister.models;
 
-public class test
+public class test {
 //another test{
 }
